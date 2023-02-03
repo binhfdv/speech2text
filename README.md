@@ -1,1 +1,1 @@
-# Vietnameses Speech to Text: Dataset and Methodology
+# Vietnamese Speech to Text: Dataset and Methodology
